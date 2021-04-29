@@ -1,0 +1,79 @@
+{
+  "code": 20000,
+  "data": {
+    "dataList": [
+      {
+        "id": "test.50352",
+        "code": null,
+        "name": "test测试预算中心test",
+        "alias": "9F68632A799DAAFE",
+        "tag": "abcdef123",
+        "english": "yytest",
+        "group_id": "test",
+        "is_valid": 1,
+        "show_index": "1",
+        "item_level": null,
+        "parent_code": null,
+        "is_display": null
+      },
+      {
+        "id": "test.1",
+        "code": null,
+        "name": "test娱乐",
+        "alias": "D4A1DD6F1B7C9EE",
+        "tag": "A0101",
+        "english": "testEntertainment",
+        "group_id": "test",
+        "is_valid": 1,
+        "show_index": "10101",
+        "item_level": null,
+        "parent_code": null,
+        "is_display": null
+      },
+      {
+        "id": "test.2",
+        "code": null,
+        "name": "test游戏宝贝",
+        "alias": "D4A1DD6F41933E941B7C9EE",
+        "tag": "A0102",
+        "english": "testYouxibaobei",
+        "group_id": "test",
+        "is_valid": 1,
+        "show_index": "10102",
+        "item_level": null,
+        "parent_code": null,
+        "is_display": null
+      },
+      {
+        "id": "test.4",
+        "code": null,
+        "name": "test小伙伴",
+        "alias": "3917E5DF1B3E075",
+        "tag": "A0104",
+        "english": "testXiaohuoban",
+        "group_id": "test",
+        "is_valid": 1,
+        "show_index": "10104",
+        "item_level": null,
+        "parent_code": null,
+        "is_display": null
+      },
+      {
+        "id": "test.5",
+        "code": null,
+        "name": "test会员",
+        "alias": null,
+        "tag": "A0105",
+        "english": "testMembership",
+        "group_id": "test",
+        "is_valid": 1,
+        "show_index": "10105",
+        "item_level": null,
+        "parent_code": null,
+        "is_display": null
+      }
+    ],
+    "totalCount": 101
+  },
+  "message": "操作成功"
+}

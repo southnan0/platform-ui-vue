@@ -1,0 +1,46 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "loose": true,
+        "modules": false,
+        "targets": {
+          "browsers": ["> 1%", "last 2 versions", "not ie <= 8"]
+        }
+      }
+    ]
+  ],
+  "plugins": ["@babel/plugin-syntax-jsx","@vue/babel-plugin-transform-vue-jsx","@babel/plugin-proposal-optional-chaining"],
+  "env": {
+    "utils": {
+      "presets": [
+        [
+          "@babel/preset-env",
+          {
+            "loose": true,
+            "modules": "commonjs",
+            "targets": {
+              "browsers": ["> 1%", "last 2 versions", "not ie <= 8"]
+            }
+          }
+        ]
+      ]
+    },
+    "development": {
+      "presets": [
+        [
+          "@babel/preset-env",
+          {
+            "targets": {
+              "node": true
+            }
+          }
+        ]
+      ]
+    },
+    "test": {
+      "plugins": ["istanbul"]
+    }
+  }
+}

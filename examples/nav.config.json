@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "name": "组件",
+      "groups": [
+        {
+          "groupName": "Form",
+          "list": [
+            {
+              "path": "/form-divider",
+              "title": "form-divider"
+            },
+            {
+              "path": "/remote-select",
+              "title": "remote-select"
+            },
+            {
+              "path": "/form-value",
+              "title": "form-value"
+            },
+            {
+              "path": "/uploader-file",
+              "title": "uploader-file"
+            },
+            {
+              "path": "/select-check",
+              "title": "select-check"
+            },
+            {
+              "path": "/select-huge",
+              "title": "select-huge"
+            },
+            {
+              "path": "/log-steps",
+              "title": "log-steps"
+            },
+            {
+              "path": "/table",
+              "title": "table"
+            },
+            {
+              "path": "/table-form",
+              "title": "table-form"
+            },
+            {
+              "path": "/table-list",
+              "title": "table-list"
+            },
+            {
+              "path": "/form",
+              "title": "form"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "form-divider": "./packages/form-divider/index.js",
+  "back-to-top": "./packages/back-to-top/index.js",
+  "remote-select": "./packages/remote-select/index.js",
+  "form-value": "./packages/form-value/index.js",
+  "uploader-file": "./packages/uploader-file/index.js",
+  "select-check": "./packages/select-check/index.js",
+  "select-huge": "./packages/select-huge/index.js",
+  "log-steps": "./packages/log-steps/index.js",
+  "table": "./packages/table/index.js",
+  "table-form": "./packages/table-form/index.js",
+  "table-list": "./packages/table-list/index.js"
+}
