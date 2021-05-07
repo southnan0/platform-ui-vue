@@ -22,4 +22,3 @@ yarn dist
 
 3. 2021-01-18 11:07  
     组件改成打包后被引入，会有个问题，popover的层级计算，跟项目中各自进行，弹窗的popover zindex可能会比select组件的高。目前的处理方式是，设置popperAppendToBody为false
-4.
