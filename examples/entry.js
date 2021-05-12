@@ -5,16 +5,14 @@ import Oa from 'main/index.js';
 import hljs from 'highlight.js';
 import routes from './route.config';
 
+import element from 'element-ui'
 import demoBlock from './components/demo-block'
 import nameColumn from './components/name-column.vue'
 import FormTable from './components/form-table.vue'
-import './assets/styles/common.css';
-import './assets/styles/fonts/style.css';
-import 'element-ui/packages/theme-chalk/src/index.scss';
+import 'element-ui/lib/theme-chalk/index.css';
 import './assets/styles/fonts/style.css'
 import './assets/styles/common.css'
 
-import element from 'element-ui'
 import formCreate from '@form-create/element-ui'
 
 
